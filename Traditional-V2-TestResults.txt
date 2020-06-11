@@ -1,0 +1,328 @@
+Task: 1, Test Name: Search field is displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Main menu is displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Logo is displayed, DOM Id: IMG____9, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Access link is displayed, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Wishlist is displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart is displayed, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter is displayed, DOM Id: filter_col, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Viewgrid option is displayed, DOM Id: I__tiviewgrid__203, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Viewlist option is displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer is displayed, DOM Id: DIV__container__419, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Main menu is displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Logo is displayed, DOM Id: IMG____9, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Access link is displayed, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Wishlist is displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart is displayed, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter is displayed, DOM Id: filter_col, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Viewgrid option is displayed, DOM Id: I__tiviewgrid__203, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Viewlist option is displayed, DOM Id: I__tiviewlist__205, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer is displayed, DOM Id: DIV__container__419, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: DIV__customsear__41, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: I__headericon__44, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Main menu is displayed, DOM Id: DIV__mainmenu__15, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Logo is displayed, DOM Id: IMG____9, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Access link is displayed, DOM Id: A__accesslink__56, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Wishlist is displayed, DOM Id: A__wishlist__52, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart is displayed, DOM Id: A__cartbt__49, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter is displayed, DOM Id: filter_col, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Viewgrid option is displayed, DOM Id: I__tiviewgrid__203, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Viewlist option is displayed, DOM Id: I__tiviewlist__205, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Footer is displayed, DOM Id: DIV__container__419, Browser: Safari, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main menu is displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Logo is displayed, DOM Id: IMG____9, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Access link is displayed, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Wishlist is displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cart is displayed, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter is displayed, DOM Id: filter_col, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Viewgrid option is displayed, DOM Id: I__tiviewgrid__203, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Viewlist option is displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is displayed, DOM Id: DIV__container__419, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main menu is displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Logo is displayed, DOM Id: IMG____9, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Access link is displayed, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Wishlist is displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cart is displayed, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter is displayed, DOM Id: filter_col, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Viewgrid option is displayed, DOM Id: I__tiviewgrid__203, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Viewlist option is displayed, DOM Id: I__tiviewlist__205, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is displayed, DOM Id: DIV__container__419, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: DIV__customsear__41, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: I__headericon__44, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Main menu is displayed, DOM Id: DIV__mainmenu__15, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Logo is displayed, DOM Id: IMG____9, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Access link is displayed, DOM Id: A__accesslink__56, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Wishlist is displayed, DOM Id: A__wishlist__52, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cart is displayed, DOM Id: A__cartbt__49, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Filter is displayed, DOM Id: filter_col, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 1, Test Name: Viewgrid option is displayed, DOM Id: I__tiviewgrid__203, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Viewlist option is displayed, DOM Id: I__tiviewlist__205, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Footer is displayed, DOM Id: DIV__container__419, Browser: Safari, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: DIV__customsear__41, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Main menu is displayed, DOM Id: DIV__mainmenu__15, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 1, Test Name: Logo is displayed, DOM Id: IMG____9, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Access link is displayed, DOM Id: A__accesslink__56, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Wishlist is displayed, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Cart is displayed, DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Filter is displayed, DOM Id: filter_col, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 1, Test Name: Viewgrid option is displayed, DOM Id: I__tiviewgrid__203, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Viewlist option is displayed, DOM Id: I__tiviewlist__205, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer is displayed, DOM Id: DIV__container__419, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: DIV__customsear__41, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Main menu is displayed, DOM Id: DIV__mainmenu__15, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 1, Test Name: Logo is displayed, DOM Id: IMG____9, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Access link is displayed, DOM Id: A__accesslink__56, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Wishlist is displayed, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Cart is displayed, DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Filter is displayed, DOM Id: filter_col, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 1, Test Name: Viewgrid option is displayed, DOM Id: I__tiviewgrid__203, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Viewlist option is displayed, DOM Id: I__tiviewlist__205, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer is displayed, DOM Id: DIV__container__419, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: DIV__customsear__41, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: I__headericon__44, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Main menu is displayed, DOM Id: DIV__mainmenu__15, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 1, Test Name: Logo is displayed, DOM Id: IMG____9, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Access link is displayed, DOM Id: A__accesslink__56, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Wishlist is displayed, DOM Id: A__wishlist__52, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Cart is displayed, DOM Id: A__cartbt__49, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Filter is displayed, DOM Id: filter_col, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 1, Test Name: Viewgrid option is displayed, DOM Id: I__tiviewgrid__203, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Viewlist option is displayed, DOM Id: I__tiviewlist__205, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 1, Test Name: Footer is displayed, DOM Id: DIV__container__419, Browser: Safari, Viewport: 500X700, Device: Phone, Status: Pass
+=================================================================================================================
+Task: 2, Test Name: Filter for Black Shoes is working, DOM Id: grid_item, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Header is displayed after applying filter, DOM Id: HEADER__version__1, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filters are displayed after applying any filter, DOM Id: filter_col, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Footer is displayed after applying filter, DOM Id: FOOTER____418, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter for Black Shoes is working, DOM Id: grid_item, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Fail
+Task: 2, Test Name: Header is displayed after applying filter, DOM Id: HEADER__version__1, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filters are displayed after applying any filter, DOM Id: filter_col, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Footer is displayed after applying filter, DOM Id: FOOTER____418, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Filter for Black Shoes is working, DOM Id: grid_item, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filters are displayed after applying any filter, DOM Id: filter_col, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: About us link is displayed in the footer on Product listing page, DOM Id: About us, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Faq link is displayed in the footer on Product listing page, DOM Id: Faq, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Faq link is displayed in the footer on Product listing page, DOM Id: Help, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: My account link is displayed in the footer on Product listing page, DOM Id: My account, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Blog link is displayed in the footer on Product listing page, DOM Id: Blog, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Contacts link is displayed in the footer on Product listing page, DOM Id: Contacts, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Email link is displayed in the footer on Product listing page, DOM Id: srd@applitools.com, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Subscription box is displayed in the footer on Product listing page, DOM Id: newsletter, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter for Black Shoes is working, DOM Id: grid_item, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Fail
+Task: 2, Test Name: Filters are displayed after applying any filter, DOM Id: filter_col, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: About us link is displayed in the footer on Product listing page, DOM Id: About us, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Faq link is displayed in the footer on Product listing page, DOM Id: Faq, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Faq link is displayed in the footer on Product listing page, DOM Id: Help, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: My account link is displayed in the footer on Product listing page, DOM Id: My account, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Blog link is displayed in the footer on Product listing page, DOM Id: Blog, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Contacts link is displayed in the footer on Product listing page, DOM Id: Contacts, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Email link is displayed in the footer on Product listing page, DOM Id: srd@applitools.com, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Subscription box is displayed in the footer on Product listing page, DOM Id: newsletter, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Filter for Black Shoes is working, DOM Id: grid_item, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Filters are displayed after applying any filter, DOM Id: filter_col, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: About us link is displayed in the footer on Product listing page, DOM Id: About us, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Faq link is displayed in the footer on Product listing page, DOM Id: Faq, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Faq link is displayed in the footer on Product listing page, DOM Id: Help, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: My account link is displayed in the footer on Product listing page, DOM Id: My account, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Blog link is displayed in the footer on Product listing page, DOM Id: Blog, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Contacts link is displayed in the footer on Product listing page, DOM Id: Contacts, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Email link is displayed in the footer on Product listing page, DOM Id: srd@applitools.com, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Subscription box is displayed in the footer on Product listing page, DOM Id: newsletter, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Filter for Black Shoes is working, DOM Id: grid_item, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Price box in the grid item is displayed, DOM Id: price_box, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Add to Favorites in the grid item is displayed, DOM Id: ti-heart, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to compare in the grid item is displayed, DOM Id: ti-control-shuffle, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Add to cart in the grid item is displayed, DOM Id: ti-shopping-cart, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Fail
+Task: 2, Test Name: Filters are displayed after applying any filter, DOM Id: filter_col, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: About us link is displayed in the footer on Product listing page, DOM Id: About us, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Faq link is displayed in the footer on Product listing page, DOM Id: Faq, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Faq link is displayed in the footer on Product listing page, DOM Id: Help, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: My account link is displayed in the footer on Product listing page, DOM Id: My account, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Blog link is displayed in the footer on Product listing page, DOM Id: Blog, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Contacts link is displayed in the footer on Product listing page, DOM Id: Contacts, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Email link is displayed in the footer on Product listing page, DOM Id: srd@applitools.com, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Subscription box is displayed in the footer on Product listing page, DOM Id: newsletter, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Reset Filter is working, DOM Id: grid_item, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Reset Filter is working, DOM Id: grid_item, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 2, Test Name: Reset Filter is working, DOM Id: grid_item, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Reset Filter is working, DOM Id: grid_item, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 2, Test Name: Reset Filter is working, DOM Id: grid_item, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 2, Test Name: Reset Filter is working, DOM Id: grid_item, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+=================================================================================================================
+Task: 3, Test Name: Product info is displayed, DOM Id: DIV__prodinfove__75, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header is displayed on Product details page, DOM Id: HEADER__version__1, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Shoe name is displayed on Product details page, DOM Id: shoe_name, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product info version is displayed on Product details page, DOM Id: DIV__prodinfove__75, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product rating is displayed on Product details page, DOM Id: SPAN__rating__76, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Prod options are displayed on Product details page, DOM Id: DIV__prodoption__87, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: About us link is displayed in the footer on product details page, DOM Id: About us, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Faq, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Help, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: My account link is displayed in the footer on product details page, DOM Id: My account, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Blog link is displayed in the footer on product details page, DOM Id: Blog, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Contacts link is displayed in the footer on product details page, DOM Id: Contacts, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Email link is displayed in the footer on product details page, DOM Id: srd@applitools.com, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Terms and Conditions link is displayed in the footer on product details page, DOM Id: Terms and conditions, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Privacy link is displayed in the footer on product details page, DOM Id: Privacy, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Language selector is displayed in the footer, DOM Id: lang-selector, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Currency selector is displayed in the footer, DOM Id: currency-selector, Browser: Chrome, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product info is displayed, DOM Id: DIV__prodinfove__75, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Header is displayed on Product details page, DOM Id: HEADER__version__1, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Shoe name is displayed on Product details page, DOM Id: shoe_name, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product info version is displayed on Product details page, DOM Id: DIV__prodinfove__75, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product rating is displayed on Product details page, DOM Id: SPAN__rating__76, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Prod options are displayed on Product details page, DOM Id: DIV__prodoption__87, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: About us link is displayed in the footer on product details page, DOM Id: About us, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Faq, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Help, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: My account link is displayed in the footer on product details page, DOM Id: My account, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Blog link is displayed in the footer on product details page, DOM Id: Blog, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Contacts link is displayed in the footer on product details page, DOM Id: Contacts, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Email link is displayed in the footer on product details page, DOM Id: srd@applitools.com, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Terms and Conditions link is displayed in the footer on product details page, DOM Id: Terms and conditions, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Privacy link is displayed in the footer on product details page, DOM Id: Privacy, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Language selector is displayed in the footer, DOM Id: lang-selector, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Currency selector is displayed in the footer, DOM Id: currency-selector, Browser: Firefox, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: 3, Test Name: Product info is displayed, DOM Id: DIV__prodinfove__75, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Header is displayed on Product details page, DOM Id: HEADER__version__1, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Shoe name is displayed on Product details page, DOM Id: shoe_name, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product info version is displayed on Product details page, DOM Id: DIV__prodinfove__75, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product rating is displayed on Product details page, DOM Id: SPAN__rating__76, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Prod options are displayed on Product details page, DOM Id: DIV__prodoption__87, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: About us link is displayed in the footer on product details page, DOM Id: About us, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Faq, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Help, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: My account link is displayed in the footer on product details page, DOM Id: My account, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Blog link is displayed in the footer on product details page, DOM Id: Blog, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Contacts link is displayed in the footer on product details page, DOM Id: Contacts, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Email link is displayed in the footer on product details page, DOM Id: srd@applitools.com, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Terms and Conditions link is displayed in the footer on product details page, DOM Id: Terms and conditions, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Privacy link is displayed in the footer on product details page, DOM Id: Privacy, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Language selector is displayed in the footer, DOM Id: lang-selector, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Currency selector is displayed in the footer, DOM Id: currency-selector, Browser: Chrome, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product info is displayed, DOM Id: DIV__prodinfove__75, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Header is displayed on Product details page, DOM Id: HEADER__version__1, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Shoe name is displayed on Product details page, DOM Id: shoe_name, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product info version is displayed on Product details page, DOM Id: DIV__prodinfove__75, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product rating is displayed on Product details page, DOM Id: SPAN__rating__76, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Prod options are displayed on Product details page, DOM Id: DIV__prodoption__87, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: About us link is displayed in the footer on product details page, DOM Id: About us, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Faq, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Help, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: My account link is displayed in the footer on product details page, DOM Id: My account, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Blog link is displayed in the footer on product details page, DOM Id: Blog, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Contacts link is displayed in the footer on product details page, DOM Id: Contacts, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Email link is displayed in the footer on product details page, DOM Id: srd@applitools.com, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Terms and Conditions link is displayed in the footer on product details page, DOM Id: Terms and conditions, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Privacy link is displayed in the footer on product details page, DOM Id: Privacy, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Language selector is displayed in the footer, DOM Id: lang-selector, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Currency selector is displayed in the footer, DOM Id: currency-selector, Browser: Firefox, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: 3, Test Name: Product info is displayed, DOM Id: DIV__prodinfove__75, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Header is displayed on Product details page, DOM Id: HEADER__version__1, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Shoe name is displayed on Product details page, DOM Id: shoe_name, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product info version is displayed on Product details page, DOM Id: DIV__prodinfove__75, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product rating is displayed on Product details page, DOM Id: SPAN__rating__76, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Prod options are displayed on Product details page, DOM Id: DIV__prodoption__87, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: About us link is displayed in the footer on product details page, DOM Id: About us, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Faq, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Help, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: My account link is displayed in the footer on product details page, DOM Id: My account, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Blog link is displayed in the footer on product details page, DOM Id: Blog, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Contacts link is displayed in the footer on product details page, DOM Id: Contacts, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Email link is displayed in the footer on product details page, DOM Id: srd@applitools.com, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Subscription box is displayed in the footer on Product details page, DOM Id: newsletter, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Language selector is displayed in the footer, DOM Id: lang-selector, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Currency selector is displayed in the footer, DOM Id: currency-selector, Browser: Chrome, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product info is displayed, DOM Id: DIV__prodinfove__75, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Header is displayed on Product details page, DOM Id: HEADER__version__1, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Shoe name is displayed on Product details page, DOM Id: shoe_name, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product info version is displayed on Product details page, DOM Id: DIV__prodinfove__75, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Product rating is displayed on Product details page, DOM Id: SPAN__rating__76, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Prod options are displayed on Product details page, DOM Id: DIV__prodoption__87, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: About us link is displayed in the footer on product details page, DOM Id: About us, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Faq, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Faq link is displayed in the footer on product details page, DOM Id: Help, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: My account link is displayed in the footer on product details page, DOM Id: My account, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Blog link is displayed in the footer on product details page, DOM Id: Blog, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Contacts link is displayed in the footer on product details page, DOM Id: Contacts, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Email link is displayed in the footer on product details page, DOM Id: srd@applitools.com, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Subscription box is displayed in the footer on Product details page, DOM Id: newsletter, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Language selector is displayed in the footer, DOM Id: lang-selector, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+Task: 3, Test Name: Currency selector is displayed in the footer, DOM Id: currency-selector, Browser: Firefox, Viewport: 500X700, Device: Phone, Status: Pass
+=================================================================================================================

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Traditional Tests V1]">
+  <test thread-count="5" name="Traditional Test Task 1(failed)">
+    <classes>
+      <class name="hackathonapplitools.grid.tests.CrossDeviceElementsTest">
+        <methods>
+          <include name="elementVisibilityOnLaptop"/>
+          <include name="tearDown"/>
+          <include name="registerDriver"/>
+          <include name="elementVisibilityOnTablet"/>
+          <include name="elementVisibilityOnPhone"/>
+          <include name="afterAllTests"/>
+        </methods>
+      </class> <!-- hackathonapplitools.grid.tests.CrossDeviceElementsTest -->
+    </classes>
+  </test> <!-- Traditional Test Task 1(failed) -->
+</suite> <!-- Failed suite [Traditional Tests V1] -->

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UFG Hackathon" duration-ms="34236" started-at="2020-06-08T23:34:21 IST" finished-at="2020-06-08T23:34:55 IST">
+    <groups>
+    </groups>
+    <test name="V2 Modern Test All tasks" duration-ms="34236" started-at="2020-06-08T23:34:21 IST" finished-at="2020-06-08T23:34:55 IST">
+      <class name="hackathonapplitools.grid.tests.modern.ModernTestsV2">
+        <test-method status="PASS" signature="beforeTestSuite()[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="beforeTestSuite" is-config="true" duration-ms="54" started-at="2020-06-08T23:34:21 IST" finished-at="2020-06-08T23:34:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestSuite -->
+        <test-method status="PASS" signature="beforeEachTest(org.testng.ITestResult)[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="beforeEachTest" is-config="true" duration-ms="2021" started-at="2020-06-08T23:34:21 IST" finished-at="2020-06-08T23:34:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=ModernTestsV2.crossDeviceElementsTest()[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method status="PASS" signature="crossDeviceElementsTest()[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="crossDeviceElementsTest" duration-ms="7869" started-at="2020-06-08T23:34:23 IST" finished-at="2020-06-08T23:34:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crossDeviceElementsTest -->
+        <test-method status="PASS" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="afterEachTest" is-config="true" duration-ms="176" started-at="2020-06-08T23:34:31 IST" finished-at="2020-06-08T23:34:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=crossDeviceElementsTest status=SUCCESS method=ModernTestsV2.crossDeviceElementsTest()[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method status="PASS" signature="beforeEachTest(org.testng.ITestResult)[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="beforeEachTest" is-config="true" duration-ms="882" started-at="2020-06-08T23:34:31 IST" finished-at="2020-06-08T23:34:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=ModernTestsV2.productDetailsTest()[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method status="PASS" signature="productDetailsTest()[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="productDetailsTest" duration-ms="11291" started-at="2020-06-08T23:34:32 IST" finished-at="2020-06-08T23:34:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productDetailsTest -->
+        <test-method status="PASS" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="afterEachTest" is-config="true" duration-ms="113" started-at="2020-06-08T23:34:43 IST" finished-at="2020-06-08T23:34:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productDetailsTest status=SUCCESS method=ModernTestsV2.productDetailsTest()[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method status="PASS" signature="beforeEachTest(org.testng.ITestResult)[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="beforeEachTest" is-config="true" duration-ms="928" started-at="2020-06-08T23:34:43 IST" finished-at="2020-06-08T23:34:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=ModernTestsV2.shoppingExperienceTest()[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method status="PASS" signature="shoppingExperienceTest()[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="shoppingExperienceTest" duration-ms="10797" started-at="2020-06-08T23:34:44 IST" finished-at="2020-06-08T23:34:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingExperienceTest -->
+        <test-method status="PASS" signature="afterEachTest(org.testng.ITestResult)[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="afterEachTest" is-config="true" duration-ms="130" started-at="2020-06-08T23:34:55 IST" finished-at="2020-06-08T23:34:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=shoppingExperienceTest status=SUCCESS method=ModernTestsV2.shoppingExperienceTest()[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method status="PASS" signature="afterTestSuite(org.testng.ITestContext)[pri:0, instance:hackathonapplitools.grid.tests.modern.ModernTestsV2@2353b3e6]" name="afterTestSuite" is-config="true" duration-ms="13859" started-at="2020-06-08T23:34:55 IST" finished-at="2020-06-08T23:35:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@760cf594]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestSuite -->
+      </class> <!-- hackathonapplitools.grid.tests.modern.ModernTestsV2 -->
+    </test> <!-- V2 Modern Test All tasks -->
+  </suite> <!-- UFG Hackathon -->
+</testng-results>

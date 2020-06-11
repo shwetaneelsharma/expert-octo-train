@@ -1,0 +1,53 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="UFG Hackathon">
+	<test name="V1 Traditional Test Task 1">
+		<classes>
+			<class
+				name="hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest" />
+		</classes>
+	</test>
+	<test name="V1 Traditional Test Task 2">
+		<classes>
+			<class
+				name="hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest" />
+		</classes>
+	</test>
+	<test name="V1 Traditional Test Task 3">
+		<classes>
+			<class
+				name="hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest" />
+		</classes>
+	</test>
+	<test name="V2 Traditional Test Task 1">
+		<classes>
+			<class
+				name="hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest" />
+		</classes>
+	</test>
+	<test name="V2 Traditional Test Task 2">
+		<classes>
+			<class
+				name="hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest" />
+		</classes>
+	</test>
+	<test name="V2 Traditional Test Task 3">
+		<classes>
+			<class
+				name="hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest" />
+		</classes>
+	</test>
+	<test name="V1 Modern Test All tasks">
+		<classes>
+			<class
+				name="hackathonapplitools.grid.tests.modern.ModernTestsV1" />
+		</classes>
+	</test>
+	<test name="V2 Modern Test All tasks">
+		<classes>
+			<class
+				name="hackathonapplitools.grid.tests.modern.ModernTestsV2" />
+		</classes>
+	</test>
+</suite>
