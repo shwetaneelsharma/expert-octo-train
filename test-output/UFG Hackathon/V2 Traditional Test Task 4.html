@@ -1,0 +1,349 @@
+<html>
+<head>
+<title>TestNG:  V2 Traditional Test Task 3</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>V2 Traditional Test Task 3</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>6/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Jun 08 23:00:53 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>68 seconds (68301 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest.elementVisibilityOnLaptop()'><b>elementVisibilityOnLaptop</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest@2353b3e6</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest.elementVisibilityOnLaptop()'><b>elementVisibilityOnLaptop</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest@2353b3e6</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest.elementVisibilityOnLaptop()'><b>elementVisibilityOnLaptop</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest@2353b3e6</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest.elementVisibilityOnLaptop()'><b>elementVisibilityOnLaptop</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest@77f99a05</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest.elementVisibilityOnLaptop()'><b>elementVisibilityOnLaptop</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest@77f99a05</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest.elementVisibilityOnLaptop()'><b>elementVisibilityOnLaptop</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest@77f99a05</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest.elementVisibilityOnPhone()'><b>elementVisibilityOnPhone</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest@2353b3e6</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest.elementVisibilityOnPhone()'><b>elementVisibilityOnPhone</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest@2353b3e6</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest.elementVisibilityOnPhone()'><b>elementVisibilityOnPhone</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest@2353b3e6</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest.elementVisibilityOnPhone()'><b>elementVisibilityOnPhone</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest@77f99a05</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest.elementVisibilityOnPhone()'><b>elementVisibilityOnPhone</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest@77f99a05</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest.elementVisibilityOnPhone()'><b>elementVisibilityOnPhone</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest@77f99a05</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest.elementVisibilityOnTablet()'><b>elementVisibilityOnTablet</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest@2353b3e6</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest.elementVisibilityOnTablet()'><b>elementVisibilityOnTablet</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest@2353b3e6</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest.elementVisibilityOnTablet()'><b>elementVisibilityOnTablet</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.CrossDeviceElementsTest@2353b3e6</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest.elementVisibilityOnTablet()'><b>elementVisibilityOnTablet</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest@77f99a05</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest.elementVisibilityOnTablet()'><b>elementVisibilityOnTablet</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest@77f99a05</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest.elementVisibilityOnTablet()'><b>elementVisibilityOnTablet</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest</td>
+<td></td>
+<td>0</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.CrossDeviceElementsTest@77f99a05</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>6</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>7</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>13</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>14</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>13</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>14</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>9</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>10</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>13</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>14</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>13</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyFilter()'><b>verifyFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>14</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest</td>
+<td></td>
+<td>1</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest@13c27452</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest</td>
+<td></td>
+<td>2</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest@13c27452</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest</td>
+<td></td>
+<td>5</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest@13c27452</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest</td>
+<td></td>
+<td>5</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest@13c27452</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest</td>
+<td></td>
+<td>9</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest@13c27452</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest</td>
+<td></td>
+<td>9</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ProductDetailsTest@13c27452</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest</td>
+<td></td>
+<td>1</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest@491cc5c9</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest</td>
+<td></td>
+<td>1</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest@491cc5c9</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest</td>
+<td></td>
+<td>5</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest@491cc5c9</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest</td>
+<td></td>
+<td>5</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest@491cc5c9</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest</td>
+<td></td>
+<td>9</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest@491cc5c9</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest.verifyProductDetailsPage()'><b>verifyProductDetailsPage</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest</td>
+<td></td>
+<td>9</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ProductDetailsTest@491cc5c9</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>6</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>6</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>10</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>11</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>10</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest</td>
+<td></td>
+<td>11</td>
+<td>hackathonapplitools.grid.tests.traditionalv1.ShoppingExperienceTest@5f3a4b84</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>6</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>6</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>10</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>11</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>10</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+<tr>
+<td title='hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest.verifyResetFilter()'><b>verifyResetFilter</b><br>Test class: hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest</td>
+<td></td>
+<td>11</td>
+<td>hackathonapplitools.grid.tests.traditionalv2.ShoppingExperienceTest@4eb7f003</td></tr>
+</table><p>
+</body>
+</html>
