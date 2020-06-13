@@ -1,5 +1,5 @@
 # Applitools Ultrafast Grid Hackathon
-1. This repository was created as a participant in the [Applitools Ultrfast Grid Hackathon](https://applitools.com/cross-browser-testing-hackathon-v20-1-instructions/). It demonstrates how to run automated tests using Selenium Webdriver (Java) on various browsers and viewport using the traditional style and then how the same set of tests are executed on actual browsers and devices using Applitools Ultrafast grid feature.  
+1. This repository was created as a participant entry in the [Applitools Ultrfast Grid Hackathon](https://applitools.com/cross-browser-testing-hackathon-v20-1-instructions/). It demonstrates how to run automated tests using Selenium Webdriver (Java) on various browsers and viewport using the traditional style and then how the same set of tests are executed on actual browsers and devices using Applitools Ultrafast grid feature.  
 1. The Hackathon broadly consisted of three tasks that had to be implemented the Traditional way (without using an automated visual tool) and then using Applitools.  
 1. The tests need to be executed on [V1](https://demo.applitools.com/gridHackathonV1.html) and [V2](https://demo.applitools.com/gridHackathonV2.html) versions of the app where V1 was considered as the correct version to capture baseline images, whereas V2 version of the app was assumed to be buggy. 
 
