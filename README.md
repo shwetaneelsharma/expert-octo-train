@@ -12,9 +12,9 @@
 
 1. To execute these tests successfully on Firefox browser, ensure you have downloaded the compatible Geckodriver version from [here](https://github.com/mozilla/geckodriver/releases).
 
-1. It is recommended you have a IDE installed, either [Eclipse](https://www.eclipse.org/downloads/) or [IntelliJ](https://www.jetbrains.com/idea/download).  
+1. It is recommended you have an IDE installed, either [Eclipse](https://www.eclipse.org/downloads/) or [IntelliJ](https://www.jetbrains.com/idea/download).  
 
-1. Ensure **APPLITOOLS_API_KEY** is added in your path with correct value. You can navigate to this [link](https://help.applitools.com/hc/en-us/articles/360006914732-The-runner-API-key) to understand how to do it.   
+1. Ensure **APPLITOOLS_API_KEY** is added in your path with the correct value. You can navigate to this [link](https://help.applitools.com/hc/en-us/articles/360006914732-The-runner-API-key) to understand how to do it.   
 
 ### Installing
 1. Clone the repository by using the command `git clone`.  
@@ -27,25 +27,31 @@
         1.  On line#49, set the complete path to your chromedriver in the setProperty method by replacing *"/path/to/your/chromedriver"* with the location of the chromedriver on your machine.
     1. Similarly, navigate to [ModernTestsV2.java](src/test/java/hackathonapplitools/grid/tests/modern/ModernTestsV2.java)
         1. On line#49, set the complete path to your chromedriver in the setProperty method by replacing *"/path/to/your/chromedriver"* with the location of the chromedriver on your machine.  
+        
+### Demo for the Traditional test
+[Video](https://youtu.be/-DIHGDVchog)
+
+### Demo for the Modern test using Applitools Ultrafast Grid against V2 where differences are marked as failed so that the tests automatically fail next time
+[Video](https://youtu.be/77gGqvDEHK8)
 
 ### About the tests
 1. Traditional tests:  
-    1. All three tasks are captured in separate class files.
+    1. All three tasks are captured in separate class files in the package [hackathonapplitools.grid.tests.traditionalv1](src/test/java/hackathonapplitools/grid/tests/traditionalv1).  
     1. Task 1 - To verify element visibility on various laptop browsers, tablet and phone is implemented in [CrossDeviceElementsTest](src/test/java/hackathonapplitools/grid/tests/traditionalv1/CrossDeviceElementsTest.java).  
-    1. Task 2 - To verify filter results for black colour shoe is implemented in [ShoppingExperienceTest](src/test/java/hackathonapplitools/grid/tests/traditionalv1/ShoppingExperienceTest.java).  
+    1. Task 2 - To verify filter results for the black colour shoe is implemented in [ShoppingExperienceTest](src/test/java/hackathonapplitools/grid/tests/traditionalv1/ShoppingExperienceTest.java).  
     1. Task 3 - To verify details displayed on the product details page is implemented in [ProductDetailsTest](src/test/java/hackathonapplitools/grid/tests/traditionalv1/ProductDetailsTest.java).  
     1. All three tasks for V2 app are implemented in a similar fashion in the package [hackathonapplitools.grid.tests.traditionalv2](src/test/java/hackathonapplitools/grid/tests/traditionalv2).  
 1. Modern tests:  
-    1. All three tasks are implemented in one file [ModernTestsV1](src/test/java/hackathonapplitools/grid/tests/modern/ModernTestsV1.java) for V1 version.
-    1. Similarly, the same three tasks are replicated in file [ModernTestsV2](src/test/java/hackathonapplitools/grid/tests/modern/ModernTestsV2.java) to run against V2 version.
+    1. All three tasks are implemented in one file [ModernTestsV1](src/test/java/hackathonapplitools/grid/tests/modern/ModernTestsV1.java) for the V1 version.
+    1. Similarly, the same three tasks are replicated in file [ModernTestsV2](src/test/java/hackathonapplitools/grid/tests/modern/ModernTestsV2.java) to run against the V2 version.
         
 ### Running the tests
 1. **To run the entire Test Suite (All Traditional and Modern tests for both versions of the app):**  
-    * Right click on testng.xml -> Run As -> TestNG Suite.  
+    * Right-click on testng.xml -> Run As -> TestNG Suite.  
 1. **To run individual files:**  
-    * Right click on Class file (For e.g. [CrossDeviceElementsTest.java](src/test/java/hackathonapplitools/grid/tests/traditionalv1/CrossDeviceElementsTest.java)) -> Run As -> TestNG Test.  
+    * Right-click on Class file (For e.g. [CrossDeviceElementsTest.java](src/test/java/hackathonapplitools/grid/tests/traditionalv1/CrossDeviceElementsTest.java)) -> Run As -> TestNG Test.  
 1. **To run individual tests:**  
-    * In the respective class file, Right click on method annotated as @Test (For e.g. elementVisibilityOnLaptop() method in [CrossDeviceElementsTest.java](src/test/java/hackathonapplitools/grid/tests/traditionalv1/CrossDeviceElementsTest.java)) -> Run As -> TestNG Test.  
+    * In the respective class file, Right-click on method annotated as @Test (For e.g. elementVisibilityOnLaptop() method in [CrossDeviceElementsTest.java](src/test/java/hackathonapplitools/grid/tests/traditionalv1/CrossDeviceElementsTest.java)) -> Run As -> TestNG Test.  
     
 ### Authors
 * Shweta Sharma - [Axelerant Technologies](https://www.axelerant.com/) 
